@@ -6,3 +6,11 @@ pandas==2.0.3
 scipy==1.11.1
 plotly==5.17.0
 soundfile==0.12.1
+streamlit
+plotly
+pydub
+librosa
+numpy
+pandas
+scipy
+soundfile
